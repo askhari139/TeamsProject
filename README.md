@@ -2,7 +2,7 @@
 Codes for analysis and figure making of teams paper
 ## Folder structure:
 
-The data required to generate the figures (includes raw simulation files as well as compilations of various analyses) is available for download at the link:
+The data required to generate the figures (includes raw simulation files as well as compilations of various analyses) is available for download at the link: https://drive.google.com/file/d/1yrnDVQ24IkfcZUPe6NdTQD05YYsp7lQA/view?usp=sharing
 Download this repo, then download the rar file at the above and extract it to the same folder as the repo. The data should all be present in a folder named "Final_Results". Once the folder structure is ready, the codes can be run to generate the figures. 
 
 ## Code structure
